@@ -23,7 +23,7 @@ php artisan db:seed
 
 php artisan serve               //rodar a sua aplicação
 
-Register/Login to your system
+Faça Login ao sistema com as Credenciais Administrativa abaixo.
 ```
 
 #### Features
